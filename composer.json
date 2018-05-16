@@ -1,0 +1,14 @@
+{
+    "name": "weigo/image",
+    "authors": [
+        {
+            "name": "caowei",
+            "email": "caowei_e@sina.cn"
+        }
+    ],
+	"description": "Picture processing",
+    "require": {
+		"php": "^5.3 || ^7.0",
+        "another-vendor/package": "1.*"
+	}
+}
